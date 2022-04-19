@@ -1,3 +1,4 @@
+console.log(ls)
 function finalClick() {
 
     if (sessionStorage.getItem("subok") == "true") {
